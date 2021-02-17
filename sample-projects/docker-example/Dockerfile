@@ -1,1 +1,1 @@
-FROM MH42Server.jfrog.io/docker/ubuntu:16.04
+FROM mh42server.jfrog.io/docker/ubuntu:16.04
